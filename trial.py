@@ -1,6 +1,6 @@
-import numpy
 import matplotlib
+import numpy
 print('hello worl')
 print('heyy')
 
-print('hello')
+print('nn')
